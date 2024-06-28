@@ -1,0 +1,25 @@
+:root {
+    --cor-primaria: #006654; 
+    --cor-secundaria: hsla(169, 100%, 20%, 0.8); 
+    --cor-terciaria: #6866CC;
+    --cor-text-white: #FFFF;
+    --cor-text-gray: #6C757D;
+    --cor-text-black: #000000;
+    --cor-border-gray: hsla(0, 0%, 75%, 0.801);
+    
+  }
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    outline: none;
+    list-style: none;
+    border: none;
+    font-family: "Roboto", sans-serif;
+}
+
+.title_header{
+  color: var(--cor-text-white);
+}
