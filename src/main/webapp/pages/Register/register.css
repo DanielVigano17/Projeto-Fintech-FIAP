@@ -1,0 +1,23 @@
+.register-container {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f8f9fa;
+    padding: 2rem 0;
+}
+.register-form {
+    background-color: white;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+    width: 100%;
+    max-width: 500px;
+}
+.register-header {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+.form-floating {
+    margin-bottom: 1rem;
+}
